@@ -1,14 +1,9 @@
 # noQ
 >Demo application for noQ technology
 
-<<<<<<< HEAD
-# Steps :-
-git clone https://github.com/akulsanthosh/noQ.git
-git push (to send data to GitHub)
-git pull (to receive data from GitHub)
-=======
-Steps :-  
-+ git clone https://github.com/akulsanthosh/noQ.git  
-+ git push (to send data to GitHub). 
-+ git pull (to receive data from GitHub). 
->>>>>>> 2b803697a4609d669f6f93920a8e0402e91ce3c5
+The system contains modules for 
+
+1) Detecting new/existing users when they enter the stores.
+2) Keeps inventory of products in the store.
+3) Realtime updation of user's cart as well as the store's inventory when the user picks up a product.
+4) Automatic checkout when the user exists the store.
